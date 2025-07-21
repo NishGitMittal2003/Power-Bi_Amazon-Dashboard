@@ -1,6 +1,6 @@
 # Power-Bi_Amazon-Dashboard
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo" width="400"/>
 </p>
 Amazon Sales Dashboard – Power BI Project
 This project presents an insightful Amazon Sales Dashboard developed using Power BI. It includes data transformation, DAX-based KPIs, interactive visualizations, and actionable insights to help monitor and enhance sales performance.
