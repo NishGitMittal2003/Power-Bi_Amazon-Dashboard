@@ -70,5 +70,5 @@ A few products contribute disproportionately to total profit.
 Sales peak during November and December, indicating strong seasonal demand.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/Screenshot_power_bi_1.png" alt="Amazon Sales Dashboard" width="800"/>
+  <img src="https://raw.githubusercontent.com/your-NishGitMittal2003/your-amazon-sales-dashboard/main/Screenshot_power_bi_1.png" alt="Amazon Sales Dashboard" width="800"/>
 </p>
